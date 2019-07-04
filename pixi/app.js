@@ -33,9 +33,9 @@ client.on("ready", () => {
         if (err) console.error(err);
         files.forEach(file => {
             const eventName = file.split(".")[0];
-            const event = require(`./events/${file}`);
+            const event = require(`./Events/${file}`);
             client.on(eventName, event.bind(null, client));
-            delete require.cache[require.resolve(`./events/${file}`)];
+            delete require.cache[require.resolve(`./Events/${file}`)];
         });
         console.log(chalk.yellow(`Loading a total of ${files.length} events.`));
     });

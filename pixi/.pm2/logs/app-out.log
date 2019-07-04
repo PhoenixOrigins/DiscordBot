@@ -211,3 +211,226 @@ I am ready!
 Loading a total of 0 commands
 Loading a total of 0 events.
 I am ready!
+ Start Time: 6:40:57 PM
+ ---------------------------------------------
+Loading a total of 0 commands
+ Start Time: 6:40:58 PM
+ ---------------------------------------------
+Loading a total of 0 commands
+ Start Time: 6:40:59 PM
+ ---------------------------------------------
+Loading a total of 0 commands
+ Start Time: 6:41:00 PM
+ ---------------------------------------------
+Loading a total of 0 commands
+ Start Time: 6:41:01 PM
+ ---------------------------------------------
+Loading a total of 0 commands
+ Start Time: 6:41:02 PM
+ ---------------------------------------------
+Loading a total of 0 commands
+ Start Time: 6:41:02 PM
+ ---------------------------------------------
+Loading a total of 0 commands
+ Start Time: 6:41:03 PM
+ ---------------------------------------------
+Loading a total of 0 commands
+ Start Time: 6:41:04 PM
+ ---------------------------------------------
+Loading a total of 0 commands
+ Start Time: 6:41:05 PM
+ ---------------------------------------------
+Loading a total of 0 commands
+ Start Time: 6:41:06 PM
+ ---------------------------------------------
+Loading a total of 0 commands
+ Start Time: 6:41:06 PM
+ ---------------------------------------------
+Loading a total of 0 commands
+ Start Time: 6:41:07 PM
+ ---------------------------------------------
+Loading a total of 0 commands
+ Start Time: 6:41:08 PM
+ ---------------------------------------------
+Loading a total of 0 commands
+ Start Time: 6:41:09 PM
+ ---------------------------------------------
+Loading a total of 0 commands
+ Start Time: 6:41:10 PM
+ ---------------------------------------------
+Loading a total of 0 commands
+ Start Time: 6:41:10 PM
+ ---------------------------------------------
+Loading a total of 0 commands
+ Start Time: 6:41:11 PM
+ ---------------------------------------------
+Loading a total of 0 commands
+ Start Time: 6:42:49 PM
+ ---------------------------------------------
+Loading a total of 0 commands
+Loading a total of 1 events.
+I am ready!
+ Start Time: 6:47:44 PM
+ ---------------------------------------------
+Loading a total of 1 commands
+Loading a total of 1 events.
+I am ready!
+ Start Time: 6:49:50 PM
+ ---------------------------------------------
+Loading a total of 1 commands
+Loading a total of 1 events.
+I am ready!
+ Start Time: 6:51:03 PM
+ ---------------------------------------------
+Loading a total of 2 commands
+Loading a total of 1 events.
+I am ready!
+ Start Time: 6:52:57 PM
+ ---------------------------------------------
+Loading a total of 2 commands
+Loading a total of 1 events.
+I am ready!
+ Start Time: 7:00:33 PM
+ ---------------------------------------------
+Loading a total of 0 commands
+Loading a total of 2 events.
+I am ready!
+The bot is up
+https://discordapp.com/oauth2/authorize?client_id=595676153755467821&permissions=8&scope=bot
+ Start Time: 7:04:16 PM
+ ---------------------------------------------
+Loading a total of 0 commands
+Loading a total of 4 events.
+I am ready!
+The bot is up
+https://discordapp.com/oauth2/authorize?client_id=595676153755467821&permissions=8&scope=bot
+ Start Time: 7:44:07 PM
+ ---------------------------------------------
+Loading a total of 4 events.
+Loading a total of 0 commands
+I am ready!
+The bot is up
+https://discordapp.com/oauth2/authorize?client_id=595676153755467821&permissions=8&scope=bot
+ Start Time: 7:45:27 PM
+ ---------------------------------------------
+Loading a total of 0 commands
+Loading a total of 4 events.
+I am ready!
+The bot is up
+https://discordapp.com/oauth2/authorize?client_id=595676153755467821&permissions=8&scope=bot
+ Start Time: 7:45:38 PM
+ ---------------------------------------------
+Loading a total of 0 commands
+Loading a total of 4 events.
+I am ready!
+The bot is up
+https://discordapp.com/oauth2/authorize?client_id=595676153755467821&permissions=8&scope=bot
+ Start Time: 7:47:40 PM
+ ---------------------------------------------
+Loading a total of 4 events.
+Loading a total of 0 commands
+I am ready!
+The bot is up
+https://discordapp.com/oauth2/authorize?client_id=595676153755467821&permissions=8&scope=bot
+ Start Time: 7:55:33 PM
+ ---------------------------------------------
+Loading a total of 0 commands
+Loading a total of 4 events.
+I am ready!
+The bot is up
+https://discordapp.com/oauth2/authorize?client_id=595676153755467821&permissions=8&scope=bot
+ Start Time: 7:59:37 PM
+ ---------------------------------------------
+Loading a total of 5 events.
+Loading a total of 0 commands
+I am ready!
+The bot is up
+https://discordapp.com/oauth2/authorize?client_id=595676153755467821&permissions=8&scope=bot
+ Start Time: 8:00:01 PM
+ ---------------------------------------------
+Loading a total of 0 commands
+Loading a total of 5 events.
+I am ready!
+The bot is up
+https://discordapp.com/oauth2/authorize?client_id=595676153755467821&permissions=8&scope=bot
+ Start Time: 8:02:24 PM
+ ---------------------------------------------
+Loading a total of 0 commands
+Loading a total of 5 events.
+I am ready!
+The bot is up
+https://discordapp.com/oauth2/authorize?client_id=595676153755467821&permissions=8&scope=bot
+ Start Time: 8:03:37 PM
+ ---------------------------------------------
+Loading a total of 5 events.
+Loading a total of 0 commands
+I am ready!
+The bot is up
+https://discordapp.com/oauth2/authorize?client_id=595676153755467821&permissions=8&scope=bot
+ Start Time: 8:05:11 PM
+ ---------------------------------------------
+Loading a total of 0 commands
+Loading a total of 5 events.
+I am ready!
+The bot is up
+https://discordapp.com/oauth2/authorize?client_id=595676153755467821&permissions=8&scope=bot
+
+<--- Last few GCs --->
+
+[19733:0x5576c0c271b0]   287614 ms: Scavenge 13.6 (18.0) -> 12.6 (18.0) MB, 29.1 / 0.0 ms  allocation failure 
+[19733:0x5576c0c271b0]   291634 ms: Scavenge 13.6 (18.0) -> 12.6 (18.0) MB, 26.6 / 1.1 ms  allocation failure 
+[19733:0x5576c0c271b0]   295696 ms: Scavenge 13.6 (18.0) -> 12.6 (18.0) MB, 12.4 / 0.6 ms  allocation failure 
+[19733:0x5576c0c271b0]   299876 ms: Scavenge 13.6 (18.0) -> 12.6 (18.0) MB, 31.5 / 2.1 ms  allocation failure 
+
+
+<--- JS stacktrace --->
+
+==== JS stack trace =========================================
+
+Security context: 0x3f5851898fe1 <JSObject>
+    1: /* anonymous */(aka /* anonymous */) [/usr/local/lib/node_modules/pm2/node_modules/@pm2/io/build/main/utils/metrics/histogram.js:~55] [pc=0x1b629d686e06](this=0x3f5851882241 <undefined>,a=0xb25b7afffd1 <Number 2.08548>,b=0xb25b7afffe1 <Number 1.77669>)
+    2: QuickSort(aka QuickSort) [native array.js:~573] [pc=0x1b629d684579](this=0x3f5851882241 <undefined>,r=0xb25b7af4d11 <JSArray[302]>,...
+
+ Start Time: 8:20:11 PM
+ ---------------------------------------------
+ Start Time: 8:20:12 PM
+ ---------------------------------------------
+ Start Time: 8:20:12 PM
+ ---------------------------------------------
+ Start Time: 8:20:13 PM
+ ---------------------------------------------
+ Start Time: 8:20:14 PM
+ ---------------------------------------------
+ Start Time: 8:20:15 PM
+ ---------------------------------------------
+ Start Time: 8:20:15 PM
+ ---------------------------------------------
+ Start Time: 8:20:16 PM
+ ---------------------------------------------
+ Start Time: 8:20:17 PM
+ ---------------------------------------------
+ Start Time: 8:20:18 PM
+ ---------------------------------------------
+ Start Time: 8:20:18 PM
+ ---------------------------------------------
+ Start Time: 8:20:19 PM
+ ---------------------------------------------
+ Start Time: 8:20:20 PM
+ ---------------------------------------------
+ Start Time: 8:20:22 PM
+ ---------------------------------------------
+ Start Time: 8:20:22 PM
+ ---------------------------------------------
+ Start Time: 8:20:23 PM
+ ---------------------------------------------
+ Start Time: 8:20:24 PM
+ ---------------------------------------------
+ Start Time: 8:20:25 PM
+ ---------------------------------------------
+ Start Time: 8:21:05 PM
+ ---------------------------------------------
+Loading a total of 2 commands
+Loading a total of 5 events.
+I am ready!
+The bot is up
+https://discordapp.com/oauth2/authorize?client_id=595676153755467821&permissions=8&scope=bot

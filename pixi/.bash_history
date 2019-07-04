@@ -48,3 +48,82 @@ pm2 reload app
 pm2 log app
 pm2 reload app
 pm2 log app
+pm2 restart app
+pm2 restart app
+pm2 log app
+pm2 reload app
+opts install discord.js
+npm install discod.js
+pm2 reload app
+pm2 log app
+pm2 reload app
+pm2 log app
+sudo apt install discord.js
+pm2 reload app
+pm2 log app
+pm2 reload app
+pm2 log app
+pm2 reload app
+pm2 log app
+pm2 reload app
+pm2 log app
+pm2 reload app
+pm2 log app
+pm2 reload app
+pm2 log app
+pm2 reload app
+pm2 log app
+npm install --save npm-git-install
+pm2 resart app
+pm2 log app
+pm2 restart app
+pm2 log app
+pm2 restart app
+pm2 log app
+pm2 restart app
+pm2 log app
+pm2 restart app
+pm2 log app
+pm2 restart app
+pm2 log app
+pm2 restart app
+pm2 log app
+pm2 restart app
+pm2 log app
+pm2 log app
+pm2 restart app
+pm2 log app
+pm2 restart app
+pm2 log app
+pm2 restart app
+pm2 log app
+pm2 restart app
+pm2 log app
+pm2 restart app
+pm2 log app
+pm2 restart app
+pm2 log app
+pm2 restart app
+pm2 restart app
+pm2 add app
+pm2 add app.js app
+pm2 -h
+pm2 start app.js
+pm2 restart app
+pm2 log app
+pm2 restart app
+pm2 log app
+pm2 restart app
+pm2 log app
+pm2 start app.js
+pm2 restart app,js
+pm2 restart app.js
+pm2 stop app
+pm2 list
+pm2
+pm2 startup
+pm2 list
+pm2 restart app.js
+pm2 restart app.js
+pm2 restart app
+pm2

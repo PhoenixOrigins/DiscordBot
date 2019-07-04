@@ -47133,3 +47133,388 @@
     at tryModuleLoad (module.js:505:12)
     at Function.Module._load (module.js:497:3)
     at Module.require (module.js:596:17) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module './events/error.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at files.forEach.file (/home/pixi/app.js:36:27)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (/home/pixi/app.js:34:15)
+    at FSReqWrap.oncomplete (fs.js:135:15) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module './events/error.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at files.forEach.file (/home/pixi/app.js:36:27)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (/home/pixi/app.js:34:15)
+    at FSReqWrap.oncomplete (fs.js:135:15) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module './events/error.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at files.forEach.file (/home/pixi/app.js:36:27)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (/home/pixi/app.js:34:15)
+    at FSReqWrap.oncomplete (fs.js:135:15) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module './events/error.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at files.forEach.file (/home/pixi/app.js:36:27)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (/home/pixi/app.js:34:15)
+    at FSReqWrap.oncomplete (fs.js:135:15) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module './events/error.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at files.forEach.file (/home/pixi/app.js:36:27)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (/home/pixi/app.js:34:15)
+    at FSReqWrap.oncomplete (fs.js:135:15) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module './events/error.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at files.forEach.file (/home/pixi/app.js:36:27)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (/home/pixi/app.js:34:15)
+    at FSReqWrap.oncomplete (fs.js:135:15) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module './events/error.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at files.forEach.file (/home/pixi/app.js:36:27)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (/home/pixi/app.js:34:15)
+    at FSReqWrap.oncomplete (fs.js:135:15) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module './events/error.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at files.forEach.file (/home/pixi/app.js:36:27)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (/home/pixi/app.js:34:15)
+    at FSReqWrap.oncomplete (fs.js:135:15) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module './events/error.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at files.forEach.file (/home/pixi/app.js:36:27)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (/home/pixi/app.js:34:15)
+    at FSReqWrap.oncomplete (fs.js:135:15) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module './events/error.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at files.forEach.file (/home/pixi/app.js:36:27)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (/home/pixi/app.js:34:15)
+    at FSReqWrap.oncomplete (fs.js:135:15) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module './events/error.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at files.forEach.file (/home/pixi/app.js:36:27)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (/home/pixi/app.js:34:15)
+    at FSReqWrap.oncomplete (fs.js:135:15) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module './events/error.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at files.forEach.file (/home/pixi/app.js:36:27)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (/home/pixi/app.js:34:15)
+    at FSReqWrap.oncomplete (fs.js:135:15) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module './events/error.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at files.forEach.file (/home/pixi/app.js:36:27)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (/home/pixi/app.js:34:15)
+    at FSReqWrap.oncomplete (fs.js:135:15) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module './events/error.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at files.forEach.file (/home/pixi/app.js:36:27)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (/home/pixi/app.js:34:15)
+    at FSReqWrap.oncomplete (fs.js:135:15) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module './events/error.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at files.forEach.file (/home/pixi/app.js:36:27)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (/home/pixi/app.js:34:15)
+    at FSReqWrap.oncomplete (fs.js:135:15) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module './events/error.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at files.forEach.file (/home/pixi/app.js:36:27)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (/home/pixi/app.js:34:15)
+    at FSReqWrap.oncomplete (fs.js:135:15) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module './events/error.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at files.forEach.file (/home/pixi/app.js:36:27)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (/home/pixi/app.js:34:15)
+    at FSReqWrap.oncomplete (fs.js:135:15) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module './events/error.js'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at files.forEach.file (/home/pixi/app.js:36:27)
+    at Array.forEach (<anonymous>)
+    at fs.readdir (/home/pixi/app.js:34:15)
+    at FSReqWrap.oncomplete (fs.js:135:15) code: 'MODULE_NOT_FOUND' }
+TypeError: Cannot read property 'channels' of undefined
+    at module.exports (/home/pixi/Events/guildMemberRemove.js:8:28)
+    at emitOne (events.js:116:13)
+    at Client.emit (events.js:211:7)
+    at GuildMemberRemoveAction.handle (/home/pixi/node_modules/discord.js/src/client/actions/GuildMemberRemove.js:20:62)
+    at GuildMemberRemoveHandler.handle (/home/pixi/node_modules/discord.js/src/client/websocket/packets/handlers/GuildMemberRemove.js:9:38)
+    at WebSocketPacketManager.handle (/home/pixi/node_modules/discord.js/src/client/websocket/packets/WebSocketPacketManager.js:103:65)
+    at WebSocketConnection.onPacket (/home/pixi/node_modules/discord.js/src/client/websocket/WebSocketConnection.js:333:35)
+    at WebSocketConnection.onMessage (/home/pixi/node_modules/discord.js/src/client/websocket/WebSocketConnection.js:296:17)
+    at WebSocket.onMessage (/home/pixi/node_modules/discord.js/node_modules/ws/lib/event-target.js:120:16)
+    at emitOne (events.js:116:13)
+TypeError: Cannot read property 'channels' of undefined
+    at module.exports (/home/pixi/Events/guildMemberRemove.js:8:28)
+    at emitOne (events.js:116:13)
+    at Client.emit (events.js:211:7)
+    at GuildMemberRemoveAction.handle (/home/pixi/node_modules/discord.js/src/client/actions/GuildMemberRemove.js:20:62)
+    at GuildMemberRemoveHandler.handle (/home/pixi/node_modules/discord.js/src/client/websocket/packets/handlers/GuildMemberRemove.js:9:38)
+    at WebSocketPacketManager.handle (/home/pixi/node_modules/discord.js/src/client/websocket/packets/WebSocketPacketManager.js:103:65)
+    at WebSocketConnection.onPacket (/home/pixi/node_modules/discord.js/src/client/websocket/WebSocketConnection.js:333:35)
+    at WebSocketConnection.onMessage (/home/pixi/node_modules/discord.js/src/client/websocket/WebSocketConnection.js:296:17)
+    at WebSocket.onMessage (/home/pixi/node_modules/discord.js/node_modules/ws/lib/event-target.js:120:16)
+    at emitOne (events.js:116:13)
+TypeError: Cannot read property 'send' of null
+    at module.exports (/home/pixi/Events/guildMemberAdd.js:34:16)
+    at emitOne (events.js:116:13)
+    at Client.emit (events.js:211:7)
+    at Guild._addMember (/home/pixi/node_modules/discord.js/src/structures/Guild.js:1142:19)
+    at GuildMemberAddHandler.handle (/home/pixi/node_modules/discord.js/src/client/websocket/packets/handlers/GuildMemberAdd.js:12:13)
+    at WebSocketPacketManager.handle (/home/pixi/node_modules/discord.js/src/client/websocket/packets/WebSocketPacketManager.js:103:65)
+    at WebSocketConnection.onPacket (/home/pixi/node_modules/discord.js/src/client/websocket/WebSocketConnection.js:333:35)
+    at WebSocketConnection.onMessage (/home/pixi/node_modules/discord.js/src/client/websocket/WebSocketConnection.js:296:17)
+    at WebSocket.onMessage (/home/pixi/node_modules/discord.js/node_modules/ws/lib/event-target.js:120:16)
+    at emitOne (events.js:116:13)
+FATAL ERROR: Committing semi space failed. Allocation failed - process out of memory
+ 1: node::Abort() [node /home/pixi/app.js]
+ 2: 0x5576c0374011 [node /home/pixi/app.js]
+ 3: v8::Utils::ReportOOMFailure(char const*, bool) [node /home/pixi/app.js]
+ 4: v8::internal::V8::FatalProcessOutOfMemory(char const*, bool) [node /home/pixi/app.js]
+ 5: v8::internal::Heap::PerformGarbageCollection(v8::internal::GarbageCollector, v8::GCCallbackFlags) [node /home/pixi/app.js]
+ 6: v8::internal::Heap::CollectGarbage(v8::internal::AllocationSpace, v8::internal::GarbageCollectionReason, v8::GCCallbackFlags) [node /home/pixi/app.js]
+ 7: v8::internal::Factory::NewFillerObject(int, bool, v8::internal::AllocationSpace) [node /home/pixi/app.js]
+ 8: v8::internal::Runtime_AllocateInNewSpace(int, v8::internal::Object**, v8::internal::Isolate*) [node /home/pixi/app.js]
+ 9: 0x1b629d6840bd
+{ Error: Cannot find module '/home/pixi/Haruhi/config.json'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/pixi/Commands/help.js:1:78)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module '/home/pixi/Haruhi/config.json'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/pixi/Commands/help.js:1:78)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module '/home/pixi/Haruhi/config.json'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/pixi/Commands/help.js:1:78)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module '/home/pixi/Haruhi/config.json'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/pixi/Commands/help.js:1:78)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module '/home/pixi/Haruhi/config.json'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/pixi/Commands/help.js:1:78)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module '/home/pixi/Haruhi/config.json'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/pixi/Commands/help.js:1:78)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module '/home/pixi/Haruhi/config.json'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/pixi/Commands/help.js:1:78)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module '/home/pixi/Haruhi/config.json'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/pixi/Commands/help.js:1:78)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module '/home/pixi/Haruhi/config.json'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/pixi/Commands/help.js:1:78)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module '/home/pixi/Haruhi/config.json'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/pixi/Commands/help.js:1:78)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module '/home/pixi/Haruhi/config.json'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/pixi/Commands/help.js:1:78)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module '/home/pixi/Haruhi/config.json'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/pixi/Commands/help.js:1:78)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module '/home/pixi/Haruhi/config.json'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/pixi/Commands/help.js:1:78)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module '/home/pixi/Haruhi/config.json'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/pixi/Commands/help.js:1:78)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module '/home/pixi/Haruhi/config.json'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/pixi/Commands/help.js:1:78)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module '/home/pixi/Haruhi/config.json'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/pixi/Commands/help.js:1:78)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module '/home/pixi/Haruhi/config.json'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/pixi/Commands/help.js:1:78)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module '/home/pixi/Haruhi/config.json'
+    at Function.Module._resolveFilename (module.js:547:15)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:51:27)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/pixi/Commands/help.js:1:78)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17) code: 'MODULE_NOT_FOUND' }
