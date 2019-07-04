@@ -1,0 +1,28 @@
+{
+  "name": "pixi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PyroPixi",
+  "license": "ISC",
+  "dependencies": {
+    "async-limiter": "^1.0.0",
+    "chalk": "^2.4.1",
+    "data": "^0.6.1",
+    "discord.js": "^11.3.2",
+    "enmap": "^2.5.2",
+    "escape-string-regexp": "^1.0.5",
+    "long": "^4.0.0",
+    "moment": "^2.21.0",
+    "moment-duration-format": "^2.2.2",
+    "moment-timezone": "^0.5.14",
+    "node-cmd": "^3.0.0",
+    "prism-media": "^0.2.1",
+    "snekfetch": "^4.0.0",
+    "time-zone": "^1.0.0",
+    "ws": "^5.1.1"
+  }
+}
