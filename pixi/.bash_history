@@ -127,3 +127,9 @@ pm2 restart app.js
 pm2 restart app.js
 pm2 restart app
 pm2
+pm2 restart app
+pm2 start app.ja
+pm2 start app.js
+pm2 log app
+pm2 restart app
+pm2 log app
