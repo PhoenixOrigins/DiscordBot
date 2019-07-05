@@ -23,7 +23,7 @@ const chalk = require('chalk');
         editMessageEmbed.setAuthor("Message delete in #" + message.channel.name, message.author.displayAvatarURL);
         editMessageEmbed.setDescription(message.author.tag);
         editMessageEmbed.addField("original message", `Message: ${oldMessage}`);
-        editMessageEmbed.addField("edited message", `Message: ${newMessage}`);
+    // doesnt seem to work    editMessageEmbed.addField("edited message", `Message: ${newMessage}`);
         editMessageEmbed.addField("Message ID", message.id);
         editMessageEmbed.setFooter("Author ID: " + message.author.id);
         editMessageEmbed.setTimestamp(new Date());
