@@ -25,15 +25,9 @@ const chalk = require('chalk');
         editMessageEmbed.setAuthor("Message edited in #" + oldMessage.channel.name, oldMessage.author.displayAvatarURL);
         editMessageEmbed.setDescription(oldMessage.author.tag);
         editMessageEmbed.addField("original message", `Message: ${oldMessage}`);
-<<<<<<< HEAD
         editMessageEmbed.addField("edited message", `Message: ${newMessage}`);
         editMessageEmbed.addField("Message ID", oldMessage.id);
         editMessageEmbed.setFooter("Author ID: " + oldMessage.author.id);
-=======
-    // doesnt seem to work    editMessageEmbed.addField("edited message", `Message: ${newMessage}`);
-        editMessageEmbed.addField("Message ID", message.id);
-        editMessageEmbed.setFooter("Author ID: " + message.author.id);
->>>>>>> 54f01bd7a2b08056c17ef55952c3538a4f00adfb
         editMessageEmbed.setTimestamp(new Date());
         
         if(oldMessage.attachments.first()) {
