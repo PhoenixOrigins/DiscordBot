@@ -20,7 +20,7 @@ const chalk = require('chalk');
         let deleteMessageEmbed = new Discord.RichEmbed(data)
 
         deleteMessageEmbed.setColor("#eb0054");
-        deleteMessageEmbed.setAuthor("Message delete in #" + message.channel.name, message.author.displayAvatarURL);
+        deleteMessageEmbed.setAuthor("Message deleted in #" + message.channel.name, message.author.displayAvatarURL);
         deleteMessageEmbed.setDescription(message.author.tag);
         deleteMessageEmbed.addField("Text", `Message: ${message.content}`);
         deleteMessageEmbed.addField("Message ID", message.id);
